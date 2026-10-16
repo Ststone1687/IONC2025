@@ -1,0 +1,7 @@
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+int main(){
+cout<<"9L9o3sOhGospGCGOnsdEwse_giQAODnUSL8ZpGqXWKp4nE3PwQqDMAwG4HfJ2cOqboe-yhilq3EGbCtpPIj47ouC4i38fORPVuhH_ytgVxCK6L6-UAD7qCBizLzcgpCZMcgtEZ7RYepcSAK2raDzi3FFIYI1rQqKWTLYuoKeSSXY5lD1pZ6qyrTopPvQR3dCc8Dmgq-9MNOIcnQXTJOnk7Un29V-UUJXZn3LbHpEGpBJXPDcafSGwY89fLY_tEVR3g==";
+}

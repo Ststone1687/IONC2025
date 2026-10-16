@@ -1,0 +1,1 @@
+pyinstaller --onefile --name IONC_Simulator  --add-data "ionc_game/assets;assets" ionc_game/ionc/main.py 

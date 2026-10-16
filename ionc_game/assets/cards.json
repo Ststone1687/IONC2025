@@ -1,0 +1,326 @@
+[
+  {
+    "id": "coding",
+    "name": "打 code",
+    "tags": ["Basic"],
+    "time": 200,
+    "memory": 16,
+    "correct": 10,
+    "description": ""
+  },
+  {
+    "id": "io",
+    "name": "io 優化",
+    "tags": ["Basic"],
+    "time": -200,
+    "memory": -32,
+    "correct": 0,
+    "description": ""
+  },
+  {
+    "id": "debug_basic",
+    "name": "debug（基礎）",
+    "tags": ["Basic"],
+    "time": 100,
+    "memory": 8,
+    "correct": 10,
+    "description": ""
+  },
+  {
+    "id": "debug_normal",
+    "name": "debug（中級）",
+    "tags": ["Low"],
+    "time": 100,
+    "memory": 8,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "brute_force",
+    "name": "暴力對拍",
+    "tags": ["Low"],
+    "time": 400,
+    "memory": 32,
+    "correct": 20,
+    "description": ""
+  },
+  {
+    "id": "binary_search",
+    "name": "二分搜尋法",
+    "tags": ["Low"],
+    "time": 100,
+    "memory": 16,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "sort",
+    "name": "排序",
+    "tags": ["Low"],
+    "time": 200,
+    "memory": 16,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "suffix_sum",
+    "name": "前綴和",
+    "tags": ["Low"],
+    "time": 150,
+    "memory": 8,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "segment_tree",
+    "name": "線段樹",
+    "tags": ["Low"],
+    "time": 200,
+    "memory": 32,
+    "correct": 20,
+    "description": ""
+  },
+  {
+    "id": "dsu",
+    "name": "並查集",
+    "tags": ["Low"],
+    "time": 100,
+    "memory": 32,
+    "correct": 20,
+    "description": ""
+  },
+  {
+    "id": "bfs",
+    "name": "BFS",
+    "tags": ["Low"],
+    "time": 100,
+    "memory": 16,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "dfs",
+    "name": "DFS",
+    "tags": ["Low"],
+    "time": 100,
+    "memory": 16,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "topological",
+    "name": "拓撲排序",
+    "tags": ["Low"],
+    "time": 150,
+    "memory": 12,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "backpack",
+    "name": "背包問題",
+    "tags": ["Low"],
+    "time": 200,
+    "memory": 64,
+    "correct": 25,
+    "description": ""
+  },
+  {
+    "id": "debug_hard",
+    "name": "debug（高級）",
+    "tags": ["Mid"],
+    "time": 100,
+    "memory": 8,
+    "correct": 25,
+    "description": ""
+  },
+  {
+    "id": "treap",
+    "name": "Treap",
+    "tags": ["Mid"],
+    "time": 200,
+    "memory": 48,
+    "correct": 30,
+    "description": ""
+  },
+  {
+    "id": "jiji",
+    "name": "吉如一線段樹",
+    "tags": ["Mid"],
+    "time": 400,
+    "memory": 32,
+    "correct": 30,
+    "description": ""
+  },
+  {
+    "id": "persistent",
+    "name": "持久化資料結構",
+    "tags": ["Mid"],
+    "time": 200,
+    "memory": 128,
+    "correct": 40,
+    "description": ""
+  },
+  {
+    "id": "scc",
+    "name": "SCC",
+    "tags": ["Mid"],
+    "time": 200,
+    "memory": 64,
+    "correct": 35,
+    "description": ""
+  },
+  {
+    "id": "heavy_light",
+    "name": "輕重鏈剖分",
+    "tags": ["Mid"],
+    "time": 300,
+    "memory": 48,
+    "correct": 35,
+    "description": ""
+  },
+  {
+    "id": "barycentric",
+    "name": "重心剖分",
+    "tags": ["Mid"],
+    "time": 250,
+    "memory": 52,
+    "correct": 35,
+    "description": ""
+  },
+  {
+    "id": "sos_dp",
+    "name": "SOS DP",
+    "tags": ["Mid"],
+    "time": 200,
+    "memory": 64,
+    "correct": 30,
+    "description": ""
+  },
+  {
+    "id": "prime_generate",
+    "name": "質數篩",
+    "tags": ["Mid"],
+    "time": 300,
+    "memory": 8,
+    "correct": 25,
+    "description": ""
+  },
+  {
+    "id": "factorization",
+    "name": "質因數分解",
+    "tags": ["Mid"],
+    "time": 500,
+    "memory": 192,
+    "correct": 50,
+    "description": ""
+  },
+  {
+    "id": "half",
+    "name": "折半枚舉",
+    "tags": ["Mid"],
+    "time": 400,
+    "memory": 120,
+    "correct": 40,
+    "description": ""
+  },
+  {
+    "id": "sqrt",
+    "name": "根號算法",
+    "tags": ["Mid"],
+    "time": 500,
+    "memory": 96,
+    "correct": 40,
+    "description": ""
+  },
+  {
+    "id": "confucius",
+    "name": "無敵仁者",
+    "tags": ["Mid"],
+    "time": -100,
+    "memory": -32,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "vegetable",
+    "name": "素食主義者",
+    "tags": ["Mid"],
+    "time": -200,
+    "memory": -32,
+    "correct": 15,
+    "description": ""
+  },
+  {
+    "id": "out_of_the_box",
+    "name": "out of the box",
+    "tags": ["High"],
+    "time": 2000,
+    "memory": 512,
+    "correct": 0,
+    "description": ""
+  },
+  {
+    "id": "imoto_love",
+    "name": "妹妹 Love",
+    "tags": ["High"],
+    "time": 500,
+    "memory": 128,
+    "correct": 100,
+    "description": ""
+  },
+  {
+    "id": "forever",
+    "name": "一輩子",
+    "tags": ["High"],
+    "time": -500,
+    "memory": -64,
+    "correct": 70,
+    "description": ""
+  },
+  {
+    "id": "friends",
+    "name": "永恆不變的友誼",
+    "tags": ["High"],
+    "time": -2000,
+    "memory": -256,
+    "correct": 0,
+    "description": ""
+  },
+  {
+    "id": "yakitori",
+    "name": "燒雞",
+    "tags": ["High", "Limited"],
+    "time": 100,
+    "memory": 16,
+    "correct": 50,
+    "description": ""
+  },
+  {
+    "id": "sus",
+    "name": "意外？",
+    "tags": ["High", "Limited"],
+    "time": 111,
+    "memory": 222,
+    "correct": 333,
+    "description": ""
+  },
+  {
+    "id": "imoto_daisuki",
+    "name": "超級妹控",
+    "tags": ["High", "Limited"],
+    "time": 0,
+    "memory": 0,
+    "correct": 500,
+    "description": ""
+  },
+  {
+    "id": "owari",
+    "name": "結束了？",
+    "tags": ["High", "Limited"],
+    "time": 999,
+    "memory": 255,
+    "correct": 200,
+    "description": ""
+  }
+]

@@ -1,0 +1,3339 @@
+處理檔案: ./Submission/1001.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 120
+  senpai: 2
+  imoto: 2
+  friend: 1
+  day2_score: 0
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 0
+  day4_score: 0
+  day5_score: 0
+
+=== 繼承卡片 ===
+  - treap
+
+
+--------------------
+
+處理檔案: ./Submission/1005.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 5
+  day1_score: 140
+  friend: 2
+  day2_score: 200
+  drink: 1
+  spy: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 120
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1006.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 4
+  day1_score: 200
+  senpai: 1
+  friend: 1
+  day2_score: 200
+  drink: 1
+  spy: 1
+  team_imoto: 1
+  day3_score: 230
+  toilet: 1
+  day4_score: 200
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - confucius
+
+
+--------------------
+
+處理檔案: ./Submission/1014.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 140
+  senpai: 2
+  day2_score: 200
+  vegetable: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 160
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/1024.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  imoto: 5
+  day1_score: 140
+  friend: 2
+  day2_score: 170
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 1
+  day4_score: 0
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/1027.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  senpai: 2
+  day2_score: 230
+  drink: 1
+  vegetable: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/1034.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 0
+  senpai: 4
+  day2_score: 0
+  chicken: 1
+  team_senpai: 1
+  day3_score: 0
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - jiji
+
+
+--------------------
+
+處理檔案: ./Submission/1035.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  senpai: 2
+  day2_score: 230
+  drink: 1
+  vegetable: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/1042.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 2
+  day1_score: 140
+  senpai: 3
+  friend: 1
+  day2_score: 200
+  drink: 1
+  spy: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1049.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 140
+  senpai: 2
+  day2_score: 300
+  vegetable: 1
+  imoto: 2
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - debug_hard
+
+
+--------------------
+
+處理檔案: ./Submission/1053.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 5
+  day1_score: 120
+  friend: 2
+  day2_score: 230
+  drink: 1
+  chicken: 1
+  team_imoto: 1
+  day3_score: 200
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - io
+
+
+--------------------
+
+處理檔案: ./Submission/1060.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/1064.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 140
+  imoto: 2
+  friend: 3
+  day2_score: 150
+  spy: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  senpai: 1
+  day4_score: 60
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - half
+
+
+--------------------
+
+處理檔案: ./Submission/1067.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 120
+  senpai: 2
+  day2_score: 230
+  chicken: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/1069.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 200
+  senpai: 2
+  imoto: 2
+  friend: 1
+  day2_score: 200
+  drink: 1
+  spy: 1
+  team_imoto: 1
+  day3_score: 260
+  toilet: 0
+  day4_score: 240
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/1074.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 120
+  senpai: 3
+  day2_score: 90
+  chicken: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 0
+  imoto: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/1078.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 140
+  senpai: 4
+  day2_score: 170
+  vegetable: 1
+  team_senpai: 1
+  day3_score: 100
+  toilet: 0
+  day4_score: 160
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1084.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  senpai: 3
+  day2_score: 200
+  chicken: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 130
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - heavy_light
+
+
+--------------------
+
+處理檔案: ./Submission/1087.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 200
+  senpai: 3
+  day2_score: 200
+  drink: 1
+  chicken: 1
+  team_senpai: 1
+  day3_score: 260
+  toilet: 0
+  friend: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/1089.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  imoto: 1
+  day1_score: 0
+  senpai: 4
+  day2_score: 200
+  drink: 1
+  fish: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 20
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1095.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 140
+  senpai: 3
+  day2_score: 230
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 60
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1097.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/1098.IONC_Simulator.cpp
+❌ 無法解析：blob too short
+
+--------------------
+
+處理檔案: ./Submission/1104.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  senpai: 3
+  day2_score: 200
+  chicken: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 130
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - heavy_light
+
+
+--------------------
+
+處理檔案: ./Submission/1106.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 2
+  day1_score: 140
+  friend: 3
+  senpai: 1
+  day2_score: 230
+  drink: 1
+  spy: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 120
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - friends
+
+
+--------------------
+
+處理檔案: ./Submission/1109.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 200
+  senpai: 2
+  day2_score: 230
+  vegetable: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 200
+  toilet: 0
+  day4_score: 160
+  day5_score: 372
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1122.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 200
+  imoto: 2
+  friend: 2
+  day2_score: 170
+  vegetable: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 130
+  toilet: 1
+  day4_score: 120
+  day5_score: 254
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/1136.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 5
+  day1_score: 140
+  friend: 2
+  day2_score: 300
+  vegetable: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/1144.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  day1_score: 120
+  imoto: 2
+  friend: 2
+  day2_score: 170
+  drink: 1
+  fish: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 160
+  day5_score: 300
+
+=== 繼承卡片 ===
+  - topological
+
+
+--------------------
+
+處理檔案: ./Submission/1146.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 2
+  day1_score: 140
+  friend: 3
+  senpai: 1
+  day2_score: 300
+  fish: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 200
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/1147.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 140
+  senpai: 3
+  day2_score: 200
+  vegetable: 1
+  team_senpai: 1
+  day3_score: 100
+  toilet: 0
+  friend: 1
+  day4_score: 80
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1149.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/1160.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 140
+  senpai: 4
+  day2_score: 200
+  chicken: 1
+  team_senpai: 1
+  day3_score: 100
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/1163.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  imoto: 2
+  friend: 2
+  day2_score: 300
+  drink: 1
+  vegetable: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/1166.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 1
+  day1_score: 140
+  senpai: 3
+  day2_score: 230
+  drink: 1
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1176.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 3
+  imoto: 1
+  day1_score: 120
+  senpai: 2
+  day2_score: 200
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 40
+  end_be_quarrel: 1
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/1180.IONC_Simulator.cpp
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/1181.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 2
+  day1_score: 200
+  senpai: 2
+  day2_score: 300
+  drink: 1
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - debug_hard
+
+
+--------------------
+
+處理檔案: ./Submission/1187.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  imoto: 3
+  day1_score: 140
+  friend: 2
+  day2_score: 200
+  drink: 1
+  fish: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 80
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - sos_dp
+
+
+--------------------
+
+處理檔案: ./Submission/1188.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  senpai: 3
+  day2_score: 200
+  drink: 1
+  spy: 1
+  imoto: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1189.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  imoto: 5
+  day1_score: 140
+  friend: 2
+  day2_score: 170
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 100
+  toilet: 1
+  day4_score: 100
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/1191.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  imoto: 3
+  day1_score: 140
+  friend: 4
+  day2_score: 230
+  drink: 1
+  fish: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 200
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/1192.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 120
+  senpai: 3
+  day2_score: 90
+  chicken: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 0
+  imoto: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/1195.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 2
+  day1_score: 140
+  senpai: 3
+  day2_score: 170
+  spy: 1
+  team_imoto: 1
+  day3_score: 100
+  toilet: 1
+  day4_score: 160
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1198.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  senpai: 2
+  day2_score: 170
+  drink: 1
+  vegetable: 1
+  imoto: 2
+  team_imoto: 1
+  day3_score: 200
+  toilet: 1
+  day4_score: 160
+  day5_score: 304
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1208.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/1209.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 120
+  senpai: 1
+  imoto: 1
+  friend: 3
+  day2_score: 300
+  vegetable: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 120
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - debug_hard
+
+
+--------------------
+
+處理檔案: ./Submission/1215.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 5
+  day1_score: 140
+  friend: 2
+  day2_score: 170
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 70
+  toilet: 0
+  day4_score: 60
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - coding
+
+
+--------------------
+
+處理檔案: ./Submission/1216.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 140
+  senpai: 4
+  day2_score: 300
+  chicken: 1
+  team_senpai: 1
+  day3_score: 100
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - debug_hard
+
+
+--------------------
+
+處理檔案: ./Submission/1217.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 140
+  senpai: 2
+  imoto: 1
+  friend: 2
+  day2_score: 170
+  drink: 1
+  chicken: 1
+  team_senpai: 1
+  day3_score: 100
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/1222.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 80
+  senpai: 2
+  day2_score: 170
+  drink: 1
+  chicken: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 70
+  end_be_quarrel: 1
+
+=== 繼承卡片 ===
+  - sos_dp
+
+
+--------------------
+
+處理檔案: ./Submission/1229.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  imoto: 4
+  day1_score: 200
+  friend: 2
+  day2_score: 200
+  drink: 1
+  fish: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 130
+  toilet: 1
+  day4_score: 160
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/1234.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 200
+  imoto: 1
+  friend: 1
+  senpai: 3
+  day2_score: 300
+  vegetable: 1
+  team_senpai: 1
+  day3_score: 300
+  toilet: 0
+  day4_score: 240
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/1235.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  senpai: 4
+  day2_score: 300
+  drink: 1
+  spy: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 200
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1237.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/1241.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 120
+  senpai: 2
+  day2_score: 230
+  chicken: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/1247.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 2
+  day1_score: 140
+  senpai: 3
+  day2_score: 200
+  drink: 1
+  spy: 1
+  team_senpai: 1
+  day3_score: 100
+  toilet: 0
+  day4_score: 200
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/1253.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 200
+  friend: 1
+  senpai: 2
+  day2_score: 200
+  fish: 1
+  team_imoto: 1
+  day3_score: 130
+  toilet: 0
+  day4_score: 120
+  day5_score: 300
+
+=== 繼承卡片 ===
+  - half
+
+
+--------------------
+
+處理檔案: ./Submission/1254.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 5
+  day1_score: 140
+  friend: 2
+  day2_score: 200
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 130
+  toilet: 0
+  day4_score: 60
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/1256.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/1262.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  imoto: 5
+  day1_score: 120
+  friend: 2
+  day2_score: 170
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 130
+  toilet: 1
+  day4_score: 20
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/1264.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 200
+  imoto: 1
+  friend: 2
+  senpai: 2
+  day2_score: 300
+  vegetable: 1
+  team_friend: 1
+  day3_score: 230
+  toilet: 1
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - confucius
+
+
+--------------------
+
+處理檔案: ./Submission/1270.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 200
+  senpai: 2
+  day2_score: 300
+  spy: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 260
+  toilet: 0
+  day4_score: 240
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1272.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 2
+  day1_score: 200
+  senpai: 1
+  friend: 2
+  day2_score: 300
+  drink: 1
+  spy: 1
+  team_friend: 1
+  day3_score: 100
+  end_be_quarrel: 1
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/1274.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 60
+  imoto: 1
+  friend: 1
+  senpai: 3
+  day2_score: 100
+  drink: 1
+  fish: 1
+  team_senpai: 1
+  day3_score: 0
+  toilet: 0
+  day4_score: 0
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1277.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 3
+  imoto: 1
+  day1_score: 140
+  senpai: 2
+  day2_score: 170
+  chicken: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 70
+  end_be_quarrel: 1
+
+=== 繼承卡片 ===
+  - treap
+
+
+--------------------
+
+處理檔案: ./Submission/1278.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 4
+  day1_score: 120
+  friend: 1
+  senpai: 1
+  day2_score: 200
+  drink: 1
+  chicken: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/1284.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 120
+  senpai: 3
+  day2_score: 90
+  chicken: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 0
+  imoto: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/1288.IONC_Simulator.py
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/1305.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 200
+  senpai: 3
+  day2_score: 300
+  drink: 1
+  spy: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/1310.IONC_Simulator.cpp
+❌ 無法解析：signature mismatch
+
+--------------------
+
+處理檔案: ./Submission/1323.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  imoto: 3
+  friend: 2
+  day2_score: 170
+  drink: 1
+  chicken: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 1
+  senpai: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/1325.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 3
+  day1_score: 140
+  friend: 2
+  day2_score: 200
+  chicken: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 70
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/1327.IONC_Simulator.py
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/1328.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 140
+  senpai: 2
+  friend: 1
+  day2_score: 200
+  spy: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 80
+  day5_score: 254
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/1335.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 2
+  day1_score: 200
+  senpai: 2
+  day2_score: 200
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 200
+  toilet: 1
+  day4_score: 80
+  day5_score: 372
+
+=== 繼承卡片 ===
+  - confucius
+
+
+--------------------
+
+處理檔案: ./Submission/1340.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  senpai: 1
+  imoto: 1
+  friend: 3
+  day2_score: 300
+  drink: 1
+  chicken: 1
+  team_friend: 1
+  day3_score: 260
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1351.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  senpai: 4
+  day2_score: 230
+  drink: 1
+  fish: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1352.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 200
+  senpai: 1
+  friend: 2
+  day2_score: 300
+  spy: 1
+  team_friend: 1
+  day3_score: 260
+  toilet: 1
+  day4_score: 240
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - debug_hard
+
+
+--------------------
+
+處理檔案: ./Submission/1353.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 120
+  senpai: 4
+  day2_score: 110
+  spy: 1
+  team_senpai: 1
+  day3_score: 130
+  toilet: 0
+  day4_score: 80
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1354.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 4
+  day1_score: 140
+  friend: 1
+  senpai: 1
+  day2_score: 300
+  fish: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 240
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/1355.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 0
+  friend: 2
+  day2_score: 40
+  spy: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 80
+  day5_score: 100
+
+=== 繼承卡片 ===
+  - coding
+
+
+--------------------
+
+處理檔案: ./Submission/1357.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/1358.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/1363.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 1
+  day1_score: 120
+  senpai: 4
+  day2_score: 170
+  drink: 1
+  vegetable: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 120
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/1366.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 3
+  day1_score: 140
+  senpai: 2
+  day2_score: 230
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 100
+  end_be_quarrel: 1
+
+=== 繼承卡片 ===
+  - heavy_light
+
+
+--------------------
+
+處理檔案: ./Submission/1369.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 300
+  senpai: 2
+  day2_score: 300
+  fish: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 120
+  day5_score: 232
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/1370.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 1
+  day1_score: 200
+  senpai: 2
+  day2_score: 300
+  vegetable: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 130
+  toilet: 1
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/1376.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  day1_score: 140
+  imoto: 1
+  friend: 1
+  senpai: 3
+  day2_score: 150
+  drink: 1
+  fish: 1
+  team_senpai: 1
+  day3_score: 100
+  toilet: 1
+  day4_score: 160
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/331.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/334.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 140
+  senpai: 2
+  day2_score: 150
+  vegetable: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 40
+  day5_score: 232
+
+=== 繼承卡片 ===
+  - brute_force
+
+
+--------------------
+
+處理檔案: ./Submission/393.IONC_Simulator.py
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/402.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 0
+  imoto: 2
+  friend: 2
+  day2_score: 70
+  drink: 1
+  chicken: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 130
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/406.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/413.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 1
+  day1_score: 140
+  senpai: 4
+  day2_score: 90
+  spy: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 0
+  day4_score: 120
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/414.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 140
+  senpai: 4
+  day2_score: 200
+  drink: 1
+  fish: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/426.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/466.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 1
+  day1_score: 140
+  senpai: 3
+  day2_score: 200
+  drink: 1
+  spy: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 130
+  toilet: 1
+  day4_score: 160
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - sos_dp
+
+
+--------------------
+
+處理檔案: ./Submission/474.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 3
+  day1_score: 140
+  senpai: 2
+  day2_score: 170
+  spy: 1
+  team_imoto: 1
+  day3_score: 100
+  toilet: 0
+  day4_score: 80
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/492.IONC_Simulator.py
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/505.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 140
+  senpai: 2
+  day2_score: 170
+  vegetable: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 130
+  toilet: 0
+  day4_score: 80
+  day5_score: 300
+
+=== 繼承卡片 ===
+  - persistent
+
+
+--------------------
+
+處理檔案: ./Submission/519.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  imoto: 5
+  day1_score: 0
+  friend: 2
+  day2_score: 0
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 1
+  day4_score: 0
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/539.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 120
+  senpai: 4
+  day2_score: 170
+  chicken: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - half
+
+
+--------------------
+
+處理檔案: ./Submission/547.IONC_Simulator.py
+❌ 無法解析：blob too short
+
+--------------------
+
+處理檔案: ./Submission/551.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  imoto: 5
+  day1_score: 100
+  friend: 2
+  day2_score: 200
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 100
+  toilet: 1
+  day4_score: 0
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - imoto_love
+
+
+--------------------
+
+處理檔案: ./Submission/557.IONC_Simulator.py
+❌ 無法解析：blob too short
+
+--------------------
+
+處理檔案: ./Submission/562.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  day1_score: 200
+  senpai: 4
+  day2_score: 200
+  drink: 1
+  fish: 1
+  team_senpai: 1
+  day3_score: 200
+  toilet: 0
+  day4_score: 100
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - out_of_the_box
+
+
+--------------------
+
+處理檔案: ./Submission/566.IONC_Simulator.cpp
+❌ 無法解析：blob too short
+
+--------------------
+
+處理檔案: ./Submission/568.IONC_Simulator.cpp
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/571.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 3
+  day1_score: 140
+  senpai: 2
+  day2_score: 230
+  vegetable: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 120
+  day5_score: 300
+
+=== 繼承卡片 ===
+  - persistent
+
+
+--------------------
+
+處理檔案: ./Submission/587.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  imoto: 2
+  day1_score: 200
+  senpai: 2
+  day2_score: 300
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 200
+  toilet: 0
+  day4_score: 200
+  day5_score: 200
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/605.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  imoto: 2
+  day1_score: 200
+  senpai: 2
+  day2_score: 300
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 200
+  toilet: 0
+  day4_score: 200
+  day5_score: 200
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/636.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 1
+  day1_score: 0
+  senpai: 3
+  day2_score: 0
+  vegetable: 1
+  team_senpai: 1
+  day3_score: 0
+  toilet: 1
+  friend: 1
+  day4_score: 0
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - half
+
+
+--------------------
+
+處理檔案: ./Submission/639.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 1
+  day1_score: 140
+  senpai: 2
+  day2_score: 300
+  chicken: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/670.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/690.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 120
+  senpai: 2
+  day2_score: 0
+  drink: 1
+  spy: 1
+  team_imoto: 1
+  day3_score: 130
+  toilet: 0
+  day4_score: 0
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/699.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 3
+  day1_score: 140
+  friend: 2
+  day2_score: 170
+  drink: 1
+  chicken: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/702.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 120
+  imoto: 3
+  friend: 2
+  day2_score: 170
+  drink: 1
+  spy: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 80
+  day5_score: 158
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/704.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/715.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 140
+  senpai: 2
+  day2_score: 170
+  drink: 1
+  chicken: 1
+  imoto: 2
+  team_imoto: 1
+  day3_score: 130
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/723.IONC_Simulator.cpp
+❌ 無法解析：blob too short
+
+--------------------
+
+處理檔案: ./Submission/727.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/736.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  imoto: 2
+  friend: 4
+  day2_score: 200
+  drink: 1
+  spy: 1
+  team_friend: 1
+  day3_score: 130
+  toilet: 1
+  day4_score: 200
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - friends
+
+
+--------------------
+
+處理檔案: ./Submission/747.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 120
+  senpai: 3
+  day2_score: 170
+  drink: 1
+  vegetable: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 0
+  imoto: 1
+  day4_score: 80
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - vegetable
+
+
+--------------------
+
+處理檔案: ./Submission/753.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 200
+  senpai: 2
+  day2_score: 300
+  drink: 1
+  vegetable: 1
+  imoto: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 1
+  friend: 1
+  day4_score: 240
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - debug_hard
+
+
+--------------------
+
+處理檔案: ./Submission/757.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 3
+  day1_score: 120
+  senpai: 2
+  day2_score: 200
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 100
+  toilet: 0
+  day4_score: 200
+  day5_score: 198
+
+=== 繼承卡片 ===
+  - io
+
+
+--------------------
+
+處理檔案: ./Submission/776.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/779.IONC_Simulator.cpp
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/782.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 240
+  imoto: 2
+  friend: 3
+  day2_score: 100
+  fish: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 80
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/806.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 2
+  day1_score: 120
+  senpai: 3
+  day2_score: 200
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 130
+  toilet: 0
+  day4_score: 160
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/810.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 140
+  senpai: 2
+  day2_score: 170
+  drink: 1
+  spy: 1
+  team_imoto: 1
+  day3_score: 70
+  toilet: 0
+  day4_score: 0
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/818.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  imoto: 3
+  friend: 3
+  day2_score: 230
+  spy: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 200
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - friends
+
+
+--------------------
+
+處理檔案: ./Submission/833.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  imoto: 2
+  friend: 2
+  day2_score: 170
+  chicken: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 130
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/834.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 1
+  day1_score: 140
+  senpai: 4
+  day2_score: 200
+  fish: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 1
+  day4_score: 200
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/835.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/861.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 140
+  senpai: 2
+  day2_score: 200
+  fish: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 0
+  day4_score: 0
+  day5_score: 0
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/867.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 140
+  senpai: 3
+  day2_score: 230
+  drink: 1
+  chicken: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 260
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/868.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 120
+  imoto: 3
+  friend: 2
+  day2_score: 170
+  drink: 1
+  spy: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 80
+  day5_score: 158
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/870.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 3
+  day1_score: 200
+  senpai: 2
+  day2_score: 200
+  drink: 1
+  vegetable: 1
+  team_imoto: 1
+  day3_score: 260
+  toilet: 0
+  day4_score: 240
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - confucius
+
+
+--------------------
+
+處理檔案: ./Submission/875.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 120
+  imoto: 3
+  friend: 2
+  day2_score: 170
+  drink: 1
+  spy: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 80
+  day5_score: 158
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/885.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 120
+  imoto: 3
+  friend: 2
+  day2_score: 170
+  drink: 1
+  spy: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 80
+  day5_score: 158
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/886.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  day1_score: 140
+  imoto: 4
+  friend: 2
+  day2_score: 0
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 1
+  day4_score: 0
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - io
+
+
+--------------------
+
+處理檔案: ./Submission/887.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 3
+  day1_score: 200
+  senpai: 2
+  day2_score: 100
+  drink: 1
+  vegetable: 1
+  team_imoto: 1
+  day3_score: 260
+  toilet: 1
+  day4_score: 80
+  day5_score: 254
+
+=== 繼承卡片 ===
+  - confucius
+
+
+--------------------
+
+處理檔案: ./Submission/901.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/902.IONC_Simulator.py
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 120
+  imoto: 3
+  friend: 2
+  day2_score: 170
+  drink: 1
+  spy: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 80
+  day5_score: 158
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/903.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 7
+  day1_score: 140
+  imoto: 4
+  friend: 2
+  day2_score: 0
+  drink: 1
+  fish: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 1
+  day4_score: 0
+  end_ne_imoto: 1
+
+=== 繼承卡片 ===
+  - io
+
+
+--------------------
+
+處理檔案: ./Submission/904.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/908.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 120
+  senpai: 4
+  day2_score: 100
+  vegetable: 1
+  team_senpai: 1
+  day3_score: 70
+  toilet: 1
+  day4_score: 0
+  end_ne_senpai: 1
+
+=== 繼承卡片 ===
+  - coding
+
+
+--------------------
+
+處理檔案: ./Submission/912.IONC_Simulator.py
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/919.IONC_Simulator.py
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/920.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/922.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  imoto: 2
+  friend: 3
+  day2_score: 300
+  fish: 1
+  senpai: 1
+  team_senpai: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 160
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - forever
+
+
+--------------------
+
+處理檔案: ./Submission/927.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 4
+  day1_score: 140
+  friend: 3
+  day2_score: 230
+  chicken: 1
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - debug_hard
+
+
+--------------------
+
+處理檔案: ./Submission/928.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 3
+  day1_score: 0
+  friend: 2
+  day2_score: 0
+  drink: 1
+  fish: 1
+  senpai: 2
+  team_senpai: 1
+  day3_score: 0
+  toilet: 0
+  day4_score: 0
+  day5_score: 0
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/934.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 2
+  day1_score: 200
+  senpai: 2
+  day2_score: 200
+  drink: 1
+  vegetable: 1
+  friend: 1
+  team_friend: 1
+  day3_score: 260
+  toilet: 1
+  day4_score: 120
+  day5_score: 232
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/947.IONC_Simulator.py
+[執行逾時或無輸出]
+
+--------------------
+
+處理檔案: ./Submission/954.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  imoto: 4
+  day1_score: 0
+  friend: 2
+  day2_score: 0
+  drink: 1
+  chicken: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 1
+  senpai: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/955.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  day1_score: 40
+  senpai: 4
+  day2_score: 170
+  chicken: 1
+  team_senpai: 1
+  day3_score: 40
+  toilet: 0
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - prime_generate
+
+
+--------------------
+
+處理檔案: ./Submission/956.IONC_Simulator.cpp
+[編譯失敗]
+處理檔案: ./Submission/961.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 140
+  senpai: 2
+  day2_score: 200
+  drink: 1
+  fish: 1
+  imoto: 2
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  day5_score: 254
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/965.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  imoto: 4
+  day1_score: 120
+  friend: 2
+  day2_score: 170
+  vegetable: 1
+  team_imoto: 1
+  day3_score: 0
+  toilet: 1
+  senpai: 1
+  day4_score: 20
+  day5_score: 0
+
+=== 繼承卡片 ===
+  - sqrt
+
+
+--------------------
+
+處理檔案: ./Submission/970.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  senpai: 2
+  day2_score: 200
+  chicken: 1
+  friend: 2
+  team_friend: 1
+  day3_score: 160
+  toilet: 1
+  end_be_yakitori: 1
+
+=== 繼承卡片 ===
+  - yakitori
+
+
+--------------------
+
+處理檔案: ./Submission/976.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 5
+  day1_score: 140
+  imoto: 3
+  friend: 2
+  day2_score: 200
+  drink: 1
+  spy: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  senpai: 1
+  day4_score: 180
+  end_ne_sus: 1
+
+=== 繼承卡片 ===
+  - sus
+
+
+--------------------
+
+處理檔案: ./Submission/977.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 4
+  imoto: 4
+  day1_score: 140
+  friend: 1
+  senpai: 1
+  day2_score: 200
+  vegetable: 1
+  team_imoto: 1
+  day3_score: 160
+  toilet: 0
+  day4_score: 200
+  day5_score: 322
+
+=== 繼承卡片 ===
+  - factorization
+
+
+--------------------
+
+處理檔案: ./Submission/986.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/991.IONC_Simulator.cpp
+❌ 無法解析：base64 decode failed
+
+--------------------
+
+處理檔案: ./Submission/994.IONC_Simulator.cpp
+
+=== Flags ===
+  time_basic: 0
+  memory_basic: 0
+  correct_basic: 0
+  true_end_cnt: 6
+  day1_score: 120
+  imoto: 3
+  friend: 3
+  day2_score: 170
+  drink: 1
+  spy: 1
+  team_imoto: 1
+  day3_score: 100
+  toilet: 1
+  day4_score: 120
+  end_ne_friend: 1
+
+=== 繼承卡片 ===
+  - friends
+
+
+--------------------
+

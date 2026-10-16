@@ -1,0 +1,961 @@
+[
+  {
+    "id": "story01",
+    "type": "scene",
+    "lines_file": "story01.txt",
+    "next": "story02"
+  },
+  {
+    "id": "story02",
+    "type": "scene",
+    "lines_file": "story02.txt",
+    "next": "select01"
+  },
+  {
+    "id":"select01",
+    "type": "choice",
+    "question": "此時，你猶豫了一下，決定——",
+    "options": [
+      {
+        "text": "[跟妹妹聊天]",
+        "effects": {
+          "flags": {
+            "imoto": {"add":1}
+          }
+        },
+        "next": "story03"
+      },
+      {
+        "text": "[去上廁所]",
+        "next": "story04"
+      }
+    ]
+  },
+  {
+    "id": "story03",
+    "type": "scene",
+    "lines_file": "story03.txt",
+    "next": "story05"
+  },
+  {
+    "id": "story04",
+    "type": "scene",
+    "lines_file": "story04.txt",
+    "next": "story05"
+  },
+  {
+    "id": "story05",
+    "type": "scene",
+    "lines_file": "story05.txt",
+    "next": "story06",
+    "effects" : {
+      "give_random" : ["brute_force","binary_search","sort"]
+    }
+  },
+  {
+    "id": "story06",
+    "type": "scene",
+    "lines_file": "story06.txt",
+    "next": "story07"
+  },
+  {
+    "id": "story07",
+    "type": "scene",
+    "lines_file": "story07.txt",
+    "next": "battle_day01"
+  },
+  {
+    "id": "battle_day01",
+    "type": "battle",
+    "problem_set": "day1",
+    "score_flag": "day1_score",
+    "score_branches": [
+      { "min": 201, "max": 300, "next": "story10" },
+      { "min": 101, "max": 200, "next": "story09" },
+      { "min": 0, "max": 100, "next": "story08" }
+    ],
+    "next": "story08"
+  },
+  {
+    "id": "story08",
+    "type": "scene",
+    "lines_file": "story08.txt",
+    "next": "story11",
+    "effects": {
+      "give_cards": ["debug_basic"]
+    }
+  },
+  {
+    "id": "story09",
+    "type": "scene",
+    "lines_file": "story09.txt",
+    "next": "story11",
+    "effects": {
+      "give_cards": ["debug_normal"]
+    }
+  },
+  {
+    "id": "story10",
+    "type": "scene",
+    "lines_file": "story10.txt",
+    "next": "story11",
+    "effects": {
+      "give_cards": ["debug_hard"]
+    }
+  },
+  {
+    "id": "story11",
+    "type": "scene",
+    "lines_file": "story11.txt",
+    "next": "story12"
+  },
+  {
+    "id": "story12",
+    "type": "scene",
+    "lines_file": "story12.txt",
+    "next": "select02"
+  },
+  {
+    "id":"select02",
+    "type": "choice",
+    "question": "選擇，已經擺在眼前——",
+    "options": [
+      {
+        "text": "[去聽基礎資料結構]",
+        "effects": {
+          "flags": {
+            "imoto": {"add":1},
+            "friend": {"add":1}
+          }
+        },
+        "next": "story13"
+      },
+      {
+        "text": "[去聽進階資料結構]",
+        "effects": {
+          "flags": {
+            "senpai": {"add":1}
+          }
+        },
+        "next": "story14"
+      }
+    ]
+  },
+  {
+    "id": "story13",
+    "type": "scene",
+    "lines_file": "story13.txt",
+    "next": "story15",
+    "effects" : {
+      "give_random" : ["suffix_sum","segment_tree","dsu"]
+    }
+  },
+  {
+    "id": "story14",
+    "type": "scene",
+    "lines_file": "story14.txt",
+    "next": "story15",
+    "effects" : {
+      "give_random" : ["treap","jiji","persistent"]
+    }
+  },
+  {
+    "id": "story15",
+    "type": "scene",
+    "lines_file": "story15.txt",
+    "next": "select03"
+  },
+  {
+    "id":"select03",
+    "type": "choice",
+    "question": "午後陽光灑進食堂，照亮兩條截然不同的路。",
+    "options": [
+      {
+        "text": "[聽基礎圖論] ",
+        "effects": {
+          "flags": {
+            "imoto": {"add":1},
+            "friend": {"add":1}
+          }
+        },
+        "next": "story16"
+      },
+      {
+        "text": "[聽進階圖論]",
+        "effects": {
+          "flags": {
+            "senpai": {"add":1}
+          }
+        },
+        "next": "story17"
+      }
+    ]
+  },
+  {
+    "id": "story16",
+    "type": "scene",
+    "lines_file": "story16.txt",
+    "next": "story18",
+    "effects" : {
+      "give_random" : ["bfs","dfs","topological"]
+    }
+  },
+  {
+    "id": "story17",
+    "type": "scene",
+    "lines_file": "story17.txt",
+    "next": "story18",
+    "effects" : {
+      "give_random" : ["scc","heavy_light","barycentric"]
+    }
+  },
+  {
+    "id": "story18",
+    "type": "scene",
+    "lines_file": "story18.txt",
+    "next": "story19"
+  },
+  {
+    "id": "story19",
+    "type": "scene",
+    "lines_file": "story19.txt",
+    "next": "battle_day02"
+  },
+  {
+    "id": "battle_day02",
+    "type": "battle",
+    "problem_set": "day2",
+    "score_flag": "day2_score",
+    "score_branches": [
+      { "min": 201, "max": 300, "next": "story22" },
+      { "min": 101, "max": 200, "next": "story21" },
+      { "min": 0, "max": 100, "next": "story20" }
+    ],
+    "next": "story20"
+  },
+  {
+    "id": "story20",
+    "type": "scene",
+    "lines_file": "story20.txt",
+    "next": "story23",
+    "effects": {
+      "give_cards": ["debug_basic"]
+    }
+  },
+  {
+    "id": "story21",
+    "type": "scene",
+    "lines_file": "story21.txt",
+    "next": "story23",
+    "effects": {
+      "give_cards": ["debug_normal"]
+    }
+  },
+  {
+    "id": "story22",
+    "type": "scene",
+    "lines_file": "story22.txt",
+    "next": "story23",
+    "effects": {
+      "give_cards": ["debug_hard"]
+    }
+  },
+  {
+    "id": "story23",
+    "type": "scene",
+    "lines_file": "story23.txt",
+    "next": "story24"
+  },
+  {
+    "id": "story24",
+    "type": "scene",
+    "lines_file": "story24.txt",
+    "next": "select04"
+  },
+  {
+    "id":"select04",
+    "type": "choice",
+    "question": "（要不要買呢……）",
+    "options": [
+      {
+        "text": "[買下那瓶綠色的奇怪果汁] ",
+        "effects": {
+          "flags": {
+            "drink": {"add":1}
+          }
+        },
+        "next": "story25"
+      },
+      {
+        "text": "[搖搖頭，繞過販賣機繼續前行]",
+        "next": "story26"
+      }
+    ]
+  },
+  {
+    "id": "story25",
+    "type": "scene",
+    "lines_file": "story25.txt",
+    "next": "story27"
+  },
+  {
+    "id": "story26",
+    "type": "scene",
+    "lines_file": "story26.txt",
+    "next": "story27"
+  },
+  {
+    "id": "story27",
+    "type": "scene",
+    "lines_file": "story27.txt",
+    "next": "story28",
+    "effects" : {
+      "give_random" : ["backpack","sos_dp"]
+    }
+  },
+  {
+    "id": "story28",
+    "type": "scene",
+    "lines_file": "story28.txt",
+    "next": "select05"
+  },
+  {
+    "id":"select05",
+    "type": "choice",
+    "question": "（……還是得做個決定了。）",
+    "options": [
+      {
+        "text": "[炸魚便當] ",
+        "effects": {
+          "flags": {
+            "fish": {"add":1}
+          }
+        },
+        "next": "story29"
+      },
+      {
+        "text": "[燒雞便當] ",
+        "effects": {
+          "flags": {
+            "chicken": {"add":1}
+          }
+        },
+        "next": "story30"
+      },
+      {
+        "text": "[素便當] ",
+        "effects": {
+          "flags": {
+            "vegetable": {"add":1}
+          }
+        },
+        "next": "story31"
+      },
+      {
+        "text": "[椒麻排骨便當] ",
+        "effects": {
+          "flags": {
+            "spy": {"add":1}
+          }
+        },
+        "next": "story32"
+      }
+    ]
+  },
+  {
+    "id": "story29",
+    "type": "scene",
+    "lines_file": "story29.txt",
+    "next": "story33"
+  },
+  {
+    "id": "story30",
+    "type": "scene",
+    "lines_file": "story30.txt",
+    "next": "story33"
+  },
+  {
+    "id": "story31",
+    "type": "scene",
+    "lines_file": "story31.txt",
+    "next": "story33"
+  },
+  {
+    "id": "story32",
+    "type": "scene",
+    "lines_file": "story32.txt",
+    "next": "story33"
+  },
+  {
+    "id": "story33",
+    "type": "scene",
+    "lines_file": "story33.txt",
+    "next": "story34"
+  },
+  {
+    "id": "story34",
+    "type": "scene",
+    "lines_file": "story34.txt",
+    "next": "story35",
+    "effects" : {
+      "give_random" : ["prime_generate","factorization"]
+    } 
+  },
+  {
+    "id": "story35",
+    "type": "scene",
+    "lines_file": "story35.txt",
+    "next": "select06"
+  },
+  {
+    "id":"select06",
+    "type": "choice",
+    "question": "該跟誰一隊呢？",
+    "options": [
+      {
+        "text": "[跟妹妹組隊] ",
+        "effects": {
+          "flags": {
+            "imoto": {"add":1},
+            "team_imoto": {"add":1}
+          }
+        },
+        "next": "story36"
+      },
+      {
+        "text": "[跟學姊組隊] ",
+        "effects": {
+          "flags": {
+            "senpai": {"add":1},
+            "team_senpai": {"add":1}
+          }
+        },
+        "next": "story37"
+      },
+      {
+        "text": "[跟朋友組隊] ",
+        "effects": {
+          "flags": {
+            "friend": {"add":1},
+            "team_friend": {"add":1}
+          }
+        },
+        "next": "story38"
+      }
+    ]
+  },
+  {
+    "id": "story36",
+    "type": "scene",
+    "lines_file": "story36.txt",
+    "next": "story39"
+  },
+  {
+    "id": "story37",
+    "type": "scene",
+    "lines_file": "story37.txt",
+    "next": "story43"
+  },
+  {
+    "id": "story38",
+    "type": "scene",
+    "lines_file": "story38.txt",
+    "next": "story47"
+  },
+  {
+    "id": "story39",
+    "type": "scene",
+    "lines_file": "story39.txt",
+    "next": "battle_day03"
+  },
+  {
+    "id": "story43",
+    "type": "scene",
+    "lines_file": "story43.txt",
+    "next": "battle_day03"
+  },
+  {
+    "id": "story47",
+    "type": "scene",
+    "lines_file": "story47.txt",
+    "next": "battle_day03"
+  },
+  {
+    "id": "battle_day03",
+    "type": "battle",
+    "problem_set": "day3",
+    "score_flag": "day3_score",
+    "score_branches": [
+      { "min": 201, "max": 300, "next": "branch03" },
+      { "min": 101, "max": 200, "next": "branch02" },
+      { "min": 0, "max": 100, "next": "branch01" }
+    ],
+    "next": "branch01"
+  },
+  {
+    "id": "branch01",
+    "type": "branch",
+    "branches": [
+      { "condition": { "team_imoto": { "eq": 1 } }, "next": "story40" },
+      { "condition": { "team_senpai": { "eq": 1 } }, "next": "story44" },
+      { "condition": { "team_friend": { "eq": 1 } },  "next": "story48" }
+    ],
+    "default_next": "story40",
+    "effects":{
+      "give_cards": ["debug_basic"]
+    }
+  },
+  {
+    "id": "branch02",
+    "type": "branch",
+    "branches": [
+      { "condition": { "team_imoto": { "eq": 1 } }, "next": "story41" },
+      { "condition": { "team_senpai": { "eq": 1 } }, "next": "story45" },
+      { "condition": { "team_friend": { "eq": 1 } },  "next": "story49" }
+    ],
+    "default_next": "story41",
+    "effects":{
+      "give_cards": ["debug_normal"]
+    }
+  },
+  {
+    "id": "branch03",
+    "type": "branch",
+    "branches": [
+      { "condition": { "team_imoto": { "eq": 1 } }, "next": "story42" },
+      { "condition": { "team_senpai": { "eq": 1 } }, "next": "story46" },
+      { "condition": { "team_friend": { "eq": 1 } },  "next": "story50" }
+    ],
+    "default_next": "story42",
+    "effects":{
+      "give_cards": ["debug_hard"]
+    }
+  },
+  {
+    "id": "story40",
+    "type": "scene",
+    "lines_file": "story40.txt",
+    "next": "52"
+  },
+  {
+    "id": "story41",
+    "type": "scene",
+    "lines_file": "story41.txt",
+    "next": "52"
+  },
+  {
+    "id": "story42",
+    "type": "scene",
+    "lines_file": "story42.txt",
+    "next": "52"
+  },
+  {
+    "id": "story44",
+    "type": "scene",
+    "lines_file": "story44.txt",
+    "next": "52"
+  },
+  {
+    "id": "story45",
+    "type": "scene",
+    "lines_file": "story45.txt",
+    "next": "52"
+  },
+  {
+    "id": "story46",
+    "type": "scene",
+    "lines_file": "story46.txt",
+    "next": "52"
+  },
+  {
+    "id": "story48",
+    "type": "scene",
+    "lines_file": "story48.txt",
+    "next": "51"
+  },
+  {
+    "id": "story49",
+    "type": "scene",
+    "lines_file": "story49.txt",
+    "next": "52"
+  },
+  {
+    "id": "story50",
+    "type": "scene",
+    "lines_file": "story50.txt",
+    "next": "52"
+  },
+  {
+    "id": "story51",
+    "type": "scene",
+    "lines_file": "story51.txt",
+    "next": "scene_end"
+  },
+  {
+    "id": "story52",
+    "type": "scene",
+    "lines_file": "story52.txt",
+    "next": "story53"
+  },
+  {
+    "id": "story53",
+    "type": "scene",
+    "lines_file": "story53.txt",
+    "next": "story54"
+  },
+  {
+    "id": "story54",
+    "type": "scene",
+    "lines_file": "story54.txt",
+    "next": "story55",
+    "effects" : {
+      "give_random" : ["half","sqrt"]
+    } 
+  },
+  {
+    "id": "story55",
+    "type": "scene",
+    "lines_file": "story55.txt",
+    "next": "select07"
+  },
+  {
+    "id":"select07",
+    "type": "choice",
+    "question": "該怎麼辦呢？",
+    "options": [
+      {
+        "text": "[去上廁所] ",
+        "effects": {
+          "flags": {
+            "toilet": {"set":1}
+          }
+        },
+        "next": "story56"
+      },
+      {
+        "text": "[待在座位] ",
+        "effects": {
+          "flags": {
+            "toilet": {"set":0}
+          }
+        },
+        "next": "story57"
+      }
+    ]
+  },
+  {
+    "id": "story56",
+    "type": "scene",
+    "lines_file": "story56.txt",
+    "next": "story58"
+  },
+  {
+    "id": "story57",
+    "type": "scene",
+    "lines_file": "story57.txt",
+    "next": "story58"
+  },
+  {
+    "id": "story58",
+    "type": "scene",
+    "lines_file": "story58.txt",
+    "next": "story59"
+  },
+  {
+    "id": "story59",
+    "type": "scene",
+    "lines_file": "story59.txt",
+    "next": ""
+  },
+  {
+    "id":"select08",
+    "type": "choice",
+    "question": "你今晚想和誰一起吃晚餐？",
+    "options": [
+      {
+        "text": "[跟妹妹一起吃晚餐] ",
+        "effects": {
+          "flags": {
+            "imoto": {"add":1}
+          }
+        },
+        "next": "story60"
+      },
+      {
+        "text": "[跟學姊一起吃晚餐] ",
+        "effects": {
+          "flags": {
+            "senpai": {"add":1}
+          }
+        },
+        "next": "story61"
+      },
+      {
+        "text": "[跟朋友一起吃晚餐] ",
+        "effects": {
+          "flags": {
+            "friend": {"add":1}
+          }
+        },
+        "next": "story62"
+      }
+    ]
+  },
+  {
+    "id": "story60",
+    "type": "scene",
+    "lines_file": "story60.txt",
+    "next": "branch04"
+  },
+  {
+    "id": "story61",
+    "type": "scene",
+    "lines_file": "story61.txt",
+    "next": "branch04"
+  },
+  {
+    "id": "story62",
+    "type": "scene",
+    "lines_file": "story62.txt",
+    "next": "branch04"
+  },
+  {
+    "id": "branch04",
+    "type": "branch",
+    "branches": [
+      { "condition": { "team_imoto": { "eq": 1 } }, "next": "story64" },
+      { "condition": { "team_senpai": { "eq": 1 } }, "next": "story65" },
+      { "condition": { "team_friend": { "eq": 1 } },  "next": "story66" }
+    ],
+    "default_next": "story64"
+  },
+  {
+    "id": "story64",
+    "type": "scene",
+    "lines_file": "story64.txt",
+    "next": "branch05"
+  },
+  {
+    "id": "story65",
+    "type": "scene",
+    "lines_file": "story65.txt",
+    "next": "branch05"
+  },
+  {
+    "id": "story66",
+    "type": "scene",
+    "lines_file": "story66.txt",
+    "next": "branch05"
+  },
+  {
+    "id": "branch04",
+    "type": "branch",
+    "branches": [
+      { "condition": { "chicken": { "eq": 1 } }, "next": "story63" }
+    ],
+    "default_next": "battle_day04"
+  },
+  {
+    "id": "story63",
+    "type": "scene",
+    "lines_file": "story63.txt",
+    "next": "scene_end"
+  },
+  {
+    "id": "battle_day04",
+    "type": "battle",
+    "problem_set": "day4",
+    "score_flag": "day4_score",
+    "score_branches": [
+      { "min": 201, "max": 300, "next": "branch08" },
+      { "min": 101, "max": 200, "next": "branch07" },
+      { "min": 0, "max": 100, "next": "branch06" }
+    ],
+    "next": "branch06"
+  },
+  {
+    "id": "branch06",
+    "type": "branch",
+    "branches": [
+      { "condition": { "team_imoto": { "eq": 1 } }, "next": "story67" },
+      { "condition": { "team_senpai": { "eq": 1 } }, "next": "story68" },
+      { "condition": { "team_friend": { "eq": 1 } },  "next": "story69" }
+    ],
+    "default_next": "story67",
+    "effects":{
+      "give_cards": ["debug_basic"]
+    }
+  },
+  {
+    "id": "branch07",
+    "type": "branch",
+    "branches": [
+      { "condition": { "team_imoto": { "eq": 1 } }, "next": "story70" },
+      { "condition": { "team_senpai": { "eq": 1 } }, "next": "story71" },
+      { "condition": { "team_friend": { "eq": 1 } },  "next": "story72" }
+    ],
+    "default_next": "story70",
+    "effects":{
+      "give_cards": ["debug_normal"]
+    }
+  },
+  {
+    "id": "branch08",
+    "type": "branch",
+    "branches": [
+      { "condition": { "team_imoto": { "eq": 1 } }, "next": "story73" },
+      { "condition": { "team_senpai": { "eq": 1 } }, "next": "story74" },
+      { "condition": { "team_friend": { "eq": 1 } },  "next": "story75" }
+    ],
+    "default_next": "story73",
+    "effects":{
+      "give_cards": ["debug_hard"]
+    }
+  },
+  {
+    "id": "story67",
+    "type": "scene",
+    "lines_file": "story67.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story68",
+    "type": "scene",
+    "lines_file": "story68.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story69",
+    "type": "scene",
+    "lines_file": "story69.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story70",
+    "type": "scene",
+    "lines_file": "story70.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story71",
+    "type": "scene",
+    "lines_file": "story71.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story72",
+    "type": "scene",
+    "lines_file": "story72.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story73",
+    "type": "scene",
+    "lines_file": "story73.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story74",
+    "type": "scene",
+    "lines_file": "story74.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story75",
+    "type": "scene",
+    "lines_file": "story75.txt",
+    "next": "story76"
+  },
+  {
+    "id": "story76",
+    "type": "scene",
+    "lines_file": "story76.txt",
+    "next": "branch09"
+  },
+  {
+    "id": "branch09",
+    "type": "branch",
+    "branches": [
+      { "condition": { "toilet": { "eq": 0 }, "spy": { "eq": 1 } }, "next": "story84" },
+      { "condition": { "drink": { "eq": 1 }, "imoto": { "gte": 4 } }, "next": "story78" },
+      // { "condition": { "drink": { "eq": 1 }, "imoto": { "lt": 4 } }, "next": "story85" },
+      { "condition": { "senpai": { "gte": 3 } }, "next": "story79" },
+      { "condition": { "friend": { "gte": 3 } }, "next": "story80" }
+    ],
+    "default_next": "story77"
+  },
+  {
+    "id": "story77",
+    "type": "scene",
+    "lines_file": "story77.txt",
+    "next": "battle_day05"
+  },
+  {
+    "id": "battle_day05",
+    "type": "battle",
+    "problem_set": "day5",
+    "score_flag": "day5_score",
+    "score_branches": [
+      { "min": 500, "max": 500, "next": "story83" },
+      { "min": 0, "max": 499, "next": "story82" }
+    ],
+    "next": "story82"
+  },
+  {
+    "id": "story78",
+    "type": "scene",
+    "lines_file": "story78.txt",
+    "next": "scene_end",
+    "effects":{
+      "give_cards": ["imoto_love"]
+    }
+  },
+  {
+    "id": "story79",
+    "type": "scene",
+    "lines_file": "story79.txt",
+    "next": "scene_end",
+    "effects":{
+      "give_cards": ["forever"]
+    }
+  },
+  {
+    "id": "story80",
+    "type": "scene",
+    "lines_file": "story80.txt",
+    "next": "scene_end",
+    "effects":{
+      "give_cards": ["friends"]
+    }
+  },
+  {
+    "id": "story82",
+    "type": "scene",
+    "lines_file": "story82.txt",
+    "next": "scene_end"
+  },
+  {
+    "id": "story83",
+    "type": "scene",
+    "lines_file": "story83.txt",
+    "next": "scene_end",
+    "effects":{
+      "give_cards": ["owari"]
+    }
+  },
+  {
+    "id": "story84",
+    "type": "scene",
+    "lines_file": "story84.txt",
+    "next": "scene_end",
+    "effects":{
+      "give_cards": ["sus"]
+    }
+  },
+  {
+    "id": "story85",
+    "type": "scene",
+    "lines_file": "story85.txt",
+    "next": "scene_end"
+  }
+]

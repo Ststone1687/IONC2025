@@ -1,0 +1,422 @@
+{
+  "day1": [
+    {
+      "id": "Ciallo",
+      "name": "恰嘍",
+      "desc": "ciallo~(∠・ω<)⌒★~",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 50,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 20,
+          "score": 40
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 40,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "high_school_simulator",
+      "name": "高中生模擬器",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 30,
+          "score": 20
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 60,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "tic_tac_toe",
+      "name": "井字遊戲",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [],
+      "reward_on_ac": {
+        "give_cards": ["out_of_the_box"]
+      }
+    }
+  ],
+  "day2": [
+    {
+      "id": "interval_distinct",
+      "name": "區間相異數字",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 70,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 30,
+          "score": 40
+        }
+      ]
+    },
+    {
+      "id": "collectibles",
+      "name": "收藏品",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 128,
+          "correct_req": 30,
+          "score": 50
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 128,
+          "correct_req": 60,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "thrilling_paths",
+      "name": "刺激的道路數量",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 500,
+          "memory_limit": 512,
+          "correct_req": 100,
+          "score": 30
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 100,
+          "score": 30
+        }
+      ]
+    }
+  ],
+  "day3": [
+    {
+      "id": "blackout_site",
+      "name": "停電大工地",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 512,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score":40
+        }
+      ]
+    },
+    {
+      "id": "confucius_challenge",
+      "name": "仁者無敵",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [],
+      "reward_on_ac": {
+        "give_cards": ["confucius"]
+      }
+    },
+    {
+      "id": "max_alternating_interval_sum",
+      "name": "最大交錯區間和",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 50,
+          "score": 30
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 2000,
+          "memory_limit": 128,
+          "correct_req": 100,
+          "score": 30
+        }
+      ]
+    }
+  ],
+  "day4": [
+    {
+      "id": "interval_lca",
+      "name": "區間 LCA",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 150,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 70,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "cake",
+      "name": "蛋糕",
+      "desc": "",
+      "time_limit": 1500,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 2000,
+          "memory_limit": 128,
+          "correct_req": 50,
+          "score": 40
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1500,
+          "memory_limit": 256,
+          "correct_req": 100,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "ai999_profit",
+      "name": "AI-999 賺多少",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 350,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 2000,
+          "memory_limit": 512,
+          "correct_req": 110,
+          "score": 40
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 220,
+          "score": 33
+        }
+      ]
+    }
+  ],
+  "day5": [
+    {
+      "id": "water_dp",
+      "name": "水dp",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 5,
+      "perfect": 50,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score": 20
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 2000,
+          "memory_limit": 256,
+          "correct_req": 50,
+          "score": 20
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 30,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "floor_query",
+      "name": "樓層詢問",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 50,
+          "score": 11
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 70,
+          "score": 22
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 2000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score": 33
+        }
+      ]
+    },
+    {
+      "id": "i_love_ionc",
+      "name": "我愛 IONC",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 64,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score": 14
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 500,
+          "memory_limit": 64,
+          "correct_req": 100,
+          "score": 16
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 2000,
+          "memory_limit": 128,
+          "correct_req": 50,
+          "score": 18
+        }
+      ]
+    },
+    {
+      "id": "counting",
+      "name": "數數",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 500,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 110,
+          "score": 22
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 230,
+          "score": 24
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 340,
+          "score": 26
+        }
+      ]
+    },
+    {
+      "id": "temmie",
+      "name": "Temmie",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 1000,
+      "score" : 100,
+      "partial": []
+    }
+  ]
+}

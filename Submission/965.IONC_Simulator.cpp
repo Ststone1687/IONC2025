@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+   cout<<"KiSYntlcMWwIu93oYvmUPxZfqFBgRtSRUCqQHZE3Xxx4nE2P0QqDMAxF_yXPPkynDPorY5RaowvYdkuzgYj_vihTfLy5594kM_SjGzKYGYQC2tZl8mAuBQQMiafTwCdm9HKaCH_QYuysjwKmKYBCkgSmLqBzU2mzRhBMWSnbMykJptq86vBu6n1xQHHtuGptRRfsv6nc6OtOrzsTjSibkzG-HO1QvUPrNtXNEVr0sPhEJrHecafP3iG_WeCx_ADoM1Ny";
+}

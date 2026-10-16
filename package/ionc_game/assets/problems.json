@@ -1,0 +1,422 @@
+{
+  "day1": [
+    {
+      "id": "Ciallo",
+      "name": "恰嘍",
+      "desc": "ciallo~(∠・ω<)⌒★~",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 50,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 20,
+          "score": 40
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 40,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "high_school_simulator",
+      "name": "高中生模擬器",
+      "desc": "歡迎來到「高中生模擬器」，以下將說明遊戲規則：\n請透過不斷與本題互動的方式，來想辦法獲得分數吧！每次與本題互動時，你的程式應當要輸出兩行。\n第一行請輸出你的存檔碼。\n第二行請輸出一個數字，代表你做出的選擇，例如：0。\n祝各位玩得開心！\n若要開始遊戲，請輸出：「gXtgrL6gwg0EgOkg6STy」",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 30,
+          "score": 20
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 60,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "tic_tac_toe",
+      "name": "井字遊戲",
+      "desc": "來跟喵喵玩井字棋吧！\n一開始雙方分數皆為 0，獲勝的那方會得到 3 分，如果平手則是喵喵單獨得 1 分（畢竟比賽場地是喵喵準備的，這樣不過分吧～）。\n只要還沒有一方的分數 ≥12 就必須一直重新進行遊戲。\n請放心，喵喵是絕對不會作弊的～",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [],
+      "reward_on_ac": {
+        "give_cards": ["out_of_the_box"]
+      }
+    }
+  ],
+  "day2": [
+    {
+      "id": "interval_distinct",
+      "name": "區間相異數字",
+      "desc": "給定一個長度為 n 的陣列 x1,x2,…,xn 和 q 筆查詢，每次詢問給定 a 和 b，問 xa,xa+1,…,xb 之中有多少種相異的數字？",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 70,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 30,
+          "score": 40
+        }
+      ]
+    },
+    {
+      "id": "collectibles",
+      "name": "收藏品",
+      "desc": "f@f@c@ 是鎮上的有錢人，他平常有收集各式各樣的東西來收藏，並保值的習慣。\nf@f@c@ 有著 N 個收藏品，編號 1 到 N ，第 i 個收藏品有著 Ai 元的價值。\n但是，這些收藏品的價值是會隨著時間變化的。隨著時間過去，可能會由於褪色、表面風化等等的原因使得收藏品的價值下降。\n更準確地說，第 i 個收藏品，會在第 Bi 天以後（包含第 Bi 天），價值每天會下降 Ci 元，而每件收藏品最糟的情況就是變成 0 元。\n為了要更有效率地控管這些收藏品的價值， f@f@c@ 希望你可以幫他寫一個系統，以便讓他可以查詢第 dj 天時，第 lj 到第 rj 個收藏品的總價值是多少？",
+      "time_limit": 1000,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 128,
+          "correct_req": 30,
+          "score": 50
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 128,
+          "correct_req": 60,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "thrilling_paths",
+      "name": "刺激的道路數量",
+      "desc": "給你整數 n 和 m 條無向邊 {(ui,vi)}mi=1，並以此來構造一張無向簡單圖 G，方法如下：\n節點編號為 1,2,…,n，其中點 i 的高度是 i。\n對整數 a、b 滿足 1≤a<b≤n，若滿足以下條件之一，則節點 a 和 b 之間存在一條邊：\n存在 i∈[1,m]，使得 (a,b)=(ui,vi)，或|a−b|=gcd(a,b)。\n我們稱一個長度為 k 的路徑 (r1,r2,…,rk) 是 刺激的 若且唯若相鄰兩個節點的高度差絕對值嚴格遞增，即對 i=2,3,…,k−1 都滿足 |ri+1−ri|>|ri−ri−1|。\n請找出圖 G 中長度大於 1 的刺激路徑的數量，並對 p 取模後輸出。\n注意：路徑可以多次重複經過同個節點。",
+      "time_limit": 500,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 500,
+          "memory_limit": 512,
+          "correct_req": 100,
+          "score": 30
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 100,
+          "score": 30
+        }
+      ]
+    }
+  ],
+  "day3": [
+    {
+      "id": "blackout_site",
+      "name": "停電大工地",
+      "desc": "你的學校有 n 個工地，編號 1,2,...,n，工地間的電力透過 m 條電纜連接，由於校園多次停電，你決定要將電纜重新修理，對於每條路都會有對應的維修成本，請計算在修復成本花費最低需要多少才能夠使工地之間都能夠通電。",
+      "time_limit": 500,
+      "memory_limit": 512,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score":40
+        }
+      ]
+    },
+    {
+      "id": "confucius_challenge",
+      "name": "仁者無敵",
+      "desc": "「仁，是將人一分為二的藝術」— 孔子\n不知過了多久，奄奄一息的張醫師勉強睜開了眼睛，映入眼簾的是共產外送員們對著一個蒙面人說一些話。張醫師強行壓下心中的怒火，冷靜的蓄力準備在蒙面人靠近自己的時候發動偷襲。\n「報告老大，這次的任務完美達成，沒有讓人懷疑到我們的真實身份。」帶頭外送員恭敬的報告著。\n「很好，那現在，只有我知道了。」蒙面人陰森的說著。\n話語剛落，蒙面人便如化作一道流光一般在廳內奔竄，所到之處血光沖天，一時間無數個上半身與下半身飛到了空中又重重的落回地面，所有外送員們還來不及發出慘叫聲就被全數攔腰斬斷。以張漢文長年以來開刀累積來的定力在見到這如人間地獄般的一幕也不禁渾身冒冷汗。\n「接下來就輪到你了」蒙面人邊說著邊朝著躺在地上的張醫師走去。\n在見識了蒙面人那驚世絕藝後，張醫師對自己的偷襲妙計再沒一點信心可言。那令人絕望又窒息的步伐聲正一點點的侵蝕著張醫師的心靈。\n「啊啊啊啊啊啊！」張醫師吼著耗盡最後一分力量的將右拳往蒙面人臉上砸去。\n「雕蟲小技，竟敢班門弄斧，大威天龍！」蒙面人險之又險的閃過了張醫師的拳勁並一拳打進了張醫師的心臟。\n然而張醫師拳勁的餘威仍打碎了蒙面人的面具，終是在臨死前看清了自己的仇人。只見張醫師死不瞑目，臉上永遠保留著他最後的驚嚇。\n在這場行動當中，蒙面人之所以被張醫師在臨死之前看穿身份正是因為他並沒有在一開始就殺了張醫師。而張醫師又是當時在場實力第二的人，因此在人群之中認出實力第二的人是一個十分重要的問題。這是一個互動題，給 1 到 N 的排列 P，每次可以輸入兩個 1 到 N 之間的數 i 和 j，會回傳 >、= 或 < 分別代表 Pi>Pj、Pi=Pj、Pi<Pj。\n要求在 114514 次詢問之內找出 2 的位置。",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [],
+      "reward_on_ac": {
+        "give_cards": ["confucius"]
+      }
+    },
+    {
+      "id": "max_alternating_interval_sum",
+      "name": "最大交錯區間和",
+      "desc": "給定一個長度為 n 的數列 (a1,a2,…,an)，對於一個區間 al,al+1,…,ar，我們定義他的交錯和 sumalt(l,r) 為：\nsumalt(l,r)=max(al−al+1+⋯+(−1)r−lar,−al+al+1−⋯+(−1)r−l+1ar)在這題中，你必須要處理 q 筆操作，每筆為以下兩樣操作的其中一種：\n將 al,al+1,…,ar 都加上 v \n回答 maxl≤i≤j≤r{sumalt(i,j)}，也就是區間 a[l:r] 中所有子區間的最大交錯和",
+      "time_limit": 1000,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 50,
+          "score": 30
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 2000,
+          "memory_limit": 128,
+          "correct_req": 100,
+          "score": 30
+        }
+      ]
+    }
+  ],
+  "day4": [
+    {
+      "id": "interval_lca",
+      "name": "區間 LCA",
+      "desc": "截至今天為止，（希望）我們（應該）學過了：\n給定一棵有根樹，快速地計算樹上任兩點的 LCA 的方法。\n對於區間詢問的問題，如何使用線段樹快速地進行計算。\n那麼現在，請各位試著將所學加以應用，並試著解開以下問題吧！\n給定一棵有 n 個點的有根二元樹 T，根為 n 號點。\n保證這棵樹的後序走訪（post-order）恰好為 1,2,…,n。\n對於任意點的集合 S，定義 LCA(S) 為 S 中所有點的共同最低祖先（least common ancestor）。\n給定 q 筆詢問，每筆詢問包含兩個數字 a,b，詢問 LCA({a,a+1,…,b}) 是多少。",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 150,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 70,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "cake",
+      "name": "蛋糕",
+      "desc": "(想必您一看就懂了)\n左上是 (0,0)，有 T 筆測資，給定 x,y，如果 (x,y) 是黑色，輸出 1，否則輸出 0。",
+      "time_limit": 1500,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 2000,
+          "memory_limit": 128,
+          "correct_req": 50,
+          "score": 40
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1500,
+          "memory_limit": 256,
+          "correct_req": 100,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "ai999_profit",
+      "name": "AI-999 賺多少",
+      "desc": "商品價格經常是起起伏伏，例如石油的價格幾乎時時都有變動，有時上漲，有時下跌。商品交易商在低價時買進高價賣出就可以利用其中的價差獲取利益。2099 年 9 月 9 日 Automatic Investment 公司以複雜的人工智慧技術開發一套商品價格的預測系統，此系統命名為 AI-999，但發展了這麼多複雜的運算技術後，他們現在剩下一個小問題：假設 AI-999 的價格預測是準確的，那麼最多可以在這一段期間賺到多少錢。公司的研發經理希望以這個問題來考驗你，看看你是否有資格加入該公司的研發團隊。\n商品交易的規則是這樣的：\n只能先買後賣，不可以先賣後買。\n每次買與賣都限定是一個單位的商品。同時，在買入之後，賣出之前，不可以再買入。\n由於法令的規定，在此期間內最多只能進行 k 次的交易（一次交易包含買賣各一次）。\n輸入的資料是 AI-999 系統所預測 n 個時間點的商品價格以及一些正整數 k1,k2,…,kq，請計算不超過 ki 次交易的條件下最大可能獲得的利益。",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 350,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 2000,
+          "memory_limit": 512,
+          "correct_req": 110,
+          "score": 40
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 220,
+          "score": 33
+        }
+      ]
+    }
+  ],
+  "day5": [
+    {
+      "id": "water_dp",
+      "name": "水dp",
+      "desc": "有 T 筆測資。\n給定 n，每次操作可以讓 n 變成 n−1 或 ⌊n/2⌋，問有幾種方法可以讓 n 變成 0。答案要 mod998244353。",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 5,
+      "perfect": 50,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score": 20
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 2000,
+          "memory_limit": 256,
+          "correct_req": 50,
+          "score": 20
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 30,
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "floor_query",
+      "name": "樓層詢問",
+      "desc": "相信大家走了五天的樓梯後，都知道我們在幾樓吧？\n令 a 為這幾天上機教室的樓層數的平方，請你輸出 a↑2a−−√。其中 ↑2 為 Knuth up-arrow notation，定義為：\na↑k=aka↑nk=a↑n−1(a↑n(k−1))舉例來說，x↑kx↑2k=xk=x↑(x↑2(k−1))=xx↑2(k−1)=⋯=x^x^x^...(k 次)由於數字可能會太大，所以請輸出結果除以 998244353 後的餘數。",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 50,
+          "score": 11
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 70,
+          "score": 22
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 2000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score": 33
+        }
+      ]
+    },
+    {
+      "id": "i_love_ionc",
+      "name": "我愛 IONC",
+      "desc": "Don't be greedy...\n                   — 五星上將麥克阿瑟\n為了證明你很愛 IONC，請參考輸入輸出的說明。",
+      "time_limit": 500,
+      "memory_limit": 64,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 512,
+          "correct_req": 50,
+          "score": 14
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 500,
+          "memory_limit": 64,
+          "correct_req": 100,
+          "score": 16
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 2000,
+          "memory_limit": 128,
+          "correct_req": 50,
+          "score": 18
+        }
+      ]
+    },
+    {
+      "id": "counting",
+      "name": "數數",
+      "desc": "你有一個長度 n 的序列 A=(A1,A2,…,An)，可以切成任意個連續區間(也可以不切)，一個區間的分數是所有人的or，一個切法的分數等於每個區間的分數和，問所有方法的分數和 mod998244353。",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 500,
+      "score" : 100,
+      "partial": [
+        {
+          "name": "Subtask 1",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 110,
+          "score": 22
+        },
+        {
+          "name": "Subtask 2",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 230,
+          "score": 24
+        },
+        {
+          "name": "Subtask 3",
+          "time_limit": 1000,
+          "memory_limit": 256,
+          "correct_req": 340,
+          "score": 26
+        }
+      ]
+    },
+    {
+      "id": "temmie",
+      "name": "Temmie",
+      "desc": "你好啊，真沒想到你可以到這裡呢，不過就到這裡為止了，接下來由我Temmie來做你的對手！",
+      "time_limit": 500,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 1000,
+      "score" : 100,
+      "partial": []
+    }
+  ]
+}

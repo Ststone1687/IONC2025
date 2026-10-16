@@ -1,0 +1,15 @@
+{
+  "initial_deck": [
+    "coding",
+    "coding",
+    "coding",
+    "io",
+    "io",
+    "io"
+  ],
+  "basic_flags": {
+    "time_basic": 0,
+    "memory_basic": 0,
+    "correct_basic": 0
+  }
+}

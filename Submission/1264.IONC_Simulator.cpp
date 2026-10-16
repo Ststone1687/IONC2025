@@ -1,0 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    cout<<"K-gS9KVqcS6AuEQE1ksUsoiLKDyTQQ82gm7VrlOc3HN4nFWPwQqEMAxE_yXnHrSul_7KspRaoxuw7dLGBRH_faOguLcwmZfMrDBMbixgVmAKaDtXyIOpFAQMKS83waec0fNN4TyjxdhbHxlMq6B3S22LGBGMrsRBIXECUysYMolTZAUF48fRMQqgT6DZgS-OyK6b8IAYXbAnWR_25rrf7AkSTcjn7vH3W4T2uq31JmniGzOx9S73UvkpleIwe5oLvLYfXZ9Wuw==";
+}

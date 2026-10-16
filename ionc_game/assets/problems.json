@@ -1,0 +1,205 @@
+{
+  "day1": [
+    {
+      "id": "mind_knot_maker",
+      "name": "心結製造機",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 50,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "high_school_simulator",
+      "name": "高中生模擬器",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "tic_tac_toe",
+      "name": "井字遊戲",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [],
+      "reward_on_ac": {
+        "give_cards": ["out_of_the_box"]
+      }
+    }
+  ],
+  "day2": [
+    {
+      "id": "interval_distinct",
+      "name": "區間相異數字",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 70,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "collectibles",
+      "name": "收藏品",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "thrilling_paths",
+      "name": "刺激的道路數量",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": []
+    }
+  ],
+  "day3": [
+    {
+      "id": "blackout_site",
+      "name": "停電大工地",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 512,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "confucius_challenge",
+      "name": "仁者無敵",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": [],
+      "reward_on_ac": {
+        "give_cards": ["confucius"]
+      }
+    },
+    {
+      "id": "max_alternating_interval_sum",
+      "name": "最大交錯區間和",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": []
+    }
+  ],
+  "day4": [
+    {
+      "id": "interval_lca",
+      "name": "區間 LCA",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 150,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "cake",
+      "name": "蛋糕",
+      "desc": "",
+      "time_limit": 1500,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 200,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "ai999_profit",
+      "name": "AI-999 賺多少",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 350,
+      "score" : 100,
+      "partial": []
+    }
+  ],
+  "day5": [
+    {
+      "id": "water_dp",
+      "name": "水dp",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 5,
+      "perfect": 50,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "floor_query",
+      "name": "樓層詢問",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "i_love_ionc",
+      "name": "我愛 IONC",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 64,
+      "turn_limit": 10,
+      "perfect": 100,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "counting",
+      "name": "數數",
+      "desc": "",
+      "time_limit": 1000,
+      "memory_limit": 256,
+      "turn_limit": 10,
+      "perfect": 500,
+      "score" : 100,
+      "partial": []
+    },
+    {
+      "id": "temmie",
+      "name": "Temmie",
+      "desc": "",
+      "time_limit": 500,
+      "memory_limit": 128,
+      "turn_limit": 10,
+      "perfect": 1000,
+      "score" : 100,
+      "partial": []
+    }
+  ]
+}

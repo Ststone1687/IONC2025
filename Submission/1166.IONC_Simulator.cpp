@@ -1,0 +1,4 @@
+#include <iostream>
+int main(){
+    std::cout<<"yDqz45VwBMn8-TEsWusbDFyEsoXM4E44zEx208z_O794nE2PSw6DMAxE7-I1i_JpF7lKVUUhMTQqSSrHRUKIu9dEArHzzNij5xWGyYwZ1ArsA-reZG9B3SoIGBItF8MmIrR8cZh-qDE6bSODulfgQ-IEqq7AmaXWWU5QZCe7GePXeFBtyZoja1rJHPn4KWczjsimn7Cogby0l5HRBH3R0tGe_Y-dJfkJuWBJ1p39NzF2xIj6QKg3IY1vJM_aGnLy_RMGWZ-R4LX9AWvqWdI=\n";
+}
